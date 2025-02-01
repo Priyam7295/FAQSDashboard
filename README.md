@@ -13,7 +13,7 @@ A simple and efficient **Admin Portal** where administrators can manage Frequent
 ---
 
 ## 🚀 Installation & Setup
-1. Clone the repository: **git clone https://github.com/Priyam7295/FAQDashboard.git**  
+1. Clone the repository: **git clone https://github.com/Priyam7295/FAQSDashboard.git**  
 2. Navigate to the project directory: **cd FAQDASHBOARD**  
 
 ### 🖥️ Backend (Server)
