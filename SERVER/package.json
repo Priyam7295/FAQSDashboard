@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@huggingface/transformers": "^3.3.2",
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.1.9",
+    "transformers": "^3.1.0"
+  }
+}
