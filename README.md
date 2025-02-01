@@ -43,14 +43,14 @@ A simple and efficient **Admin Portal** where administrators can manage Frequent
 ## DEMO
 
 ### Admin Portal
-<img src="https://github.com/user-attachments/assets/6422bbce-b65e-4e6f-9773-161a211624d1" alt="Admin Portal" width="300" />
+<img src="https://github.com/user-attachments/assets/a11eaa00-2033-4298-8d75-65cf9aa57792" alt="Admin Portal" width="300" />
 
 ### FAQ List
-<img src="https://github.com/user-attachments/assets/d6ca8ba7-7771-4760-901a-0a0023f10f76" alt="FAQ List" width="300" />
+<img src="https://github.com/user-attachments/assets/48818328-1703-4215-ba3d-d9c1e07f1552" alt="FAQ List" width="300" />
 
 ### Language Selection
-<img src="https://github.com/user-attachments/assets/6d38e113-c73d-43e6-a913-3a6f450afa94" alt="Language Selection" width="300" />
-<img src="https://github.com/user-attachments/assets/c2be0115-9a77-4429-8312-e8913d5111ba" alt="Language Selection" width="300" />
+<img src="https://github.com/user-attachments/assets/36b62d5a-fc20-476e-921c-9444c134fb7e" alt="Language Selection" width="300" />
+<img src="https://github.com/user-attachments/assets/3b6ccf1e-71e8-4979-b66f-572ba3b5a94b" alt="Language Selection" width="300" />
 
 
 
